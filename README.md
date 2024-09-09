@@ -1,2 +1,1 @@
 # test_redi
-Hello
